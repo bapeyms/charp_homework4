@@ -39,7 +39,7 @@ public class Shop
     }
     public void Print()
     {
-        Console.WriteLine("--- WEBSITE INFORMATION ---");
+        Console.WriteLine("--- SHOP INFORMATION ---");
         Console.WriteLine($"Name: {Name}");
         Console.WriteLine($"Address: {Address}");
         Console.WriteLine($"Description: {Description}");
