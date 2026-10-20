@@ -12,7 +12,7 @@ class Program
         // Website site2 = new Website("Kitten", "kittenpath", "Kitty Kitten Site", "228.288.288.288");
         // site2.Print();
         
-        Console.WriteLine("--- TASK 5 ---");
+        Console.WriteLine("--- OPERATIONS TEST ---");
         Magazine m1 = new Magazine("Tech Today", 2020, "It and Innovations", "111-222-333-444", "it@email.com", 25);
         Magazine m2 = new Magazine("Fashion", 1999, "Fashion Today", "555-666-777-888", "fashiontoday@email.com", 99);
         m1.Print();
